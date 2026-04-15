@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Employee Management System (Flutter & Firebase)
 A modern, cross-platform Flutter application designed to manage employee records efficiently. This project demonstrates the integration of Flutter with Firebase Realtime Database to perform full CRUD (Create, Read, Update, Delete) operations in real-time.
 
@@ -22,3 +23,21 @@ The project uses several key packages:
 •cloud_firestore: For NoSQL document storage.
 •fluttertoast: For non-intrusive user notifications.
 •random_string: For generating unique identifiers.
+=======
+# notifications
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+>>>>>>> f3f7b1a (Initial commit)

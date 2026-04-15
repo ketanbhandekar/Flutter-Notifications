@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App name -->
+    <string name="app_name">YourAppName</string>
+
+    <!-- Firebase Configuration -->
+    <string name="firebase_database_url">https://console.firebase.google.com/u/0/project/flutter-demo-49fb0/database/flutter-demo-49fb0-default-rtdb/data/~2F/</string>
+    <string name="firebase_storage_bucket">your-storage-bucket.appspot.com</string>
+    <string name="firebase_project_id">your-project-id</string>
+</resources>
